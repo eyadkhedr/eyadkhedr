@@ -5,10 +5,9 @@ I’m a high school student from Egypt exploring the intersection of **AI, softw
 ---
 
 ## 🚀 What I’m Exploring
-- **AI & Machine Learning:** Dementia detection, speech synthesis, and data-driven insights.
+- **AI & Machine Learning:** Classification models, transformers, data analysis.
 - **Software Engineering:** Building Flutter & web apps that solve tangible problems.
 - **Entrepreneurship:** Turning ideas into small-scale projects and prototypes.
-- **Social Impact:** Using STEM to tackle environmental and health challenges locally.
 
 ---
 
